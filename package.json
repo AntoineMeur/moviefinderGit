@@ -1,7 +1,6 @@
 {
   "name": "first-react-app",
   "version": "0.1.0",
-  "homepage": "https://antoinemeur.github.io/moviefinderGit/",
   "private": true,
   "engines": {
     "npm": "8.15.0",
